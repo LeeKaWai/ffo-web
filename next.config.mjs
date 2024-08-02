@@ -1,4 +1,10 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    images: {
+        domains: ['game.gtimg.cn'], // Add the domain here
+      }
+};
+
+
 
 export default nextConfig;
