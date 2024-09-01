@@ -31,8 +31,9 @@ export default function RootLayout({
                 </div>
               </div>
               <Nav />
-             
-              <div className="left-menu-bottom"><a className="icon-left-menu-expand"></a></div>
+              <div className="left-menu-bottom">
+                <a className="icon-left-menu-expand"></a>
+              </div>
             </div>
           </div>
           <div className="app-main">

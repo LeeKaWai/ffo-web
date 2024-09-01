@@ -1,0 +1,61 @@
+[
+    {
+        "img": [
+            "/images/qiutian/nanyifu.jpg",
+            "/images/qiutian/nvyifu.jpg"
+        ],
+        "name": "秋之枫华*真*翱(男/女)",
+        "level": "30",
+        "place": "衣服",
+        "conditional": "140 仙点"
+    },
+    {
+        "img": "/images/qiutian/xiezi.jpg",
+        "name": "秋之枫华*真*疾",
+        "level": "30",
+        "place": "鞋子",
+        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+    },
+    {
+        "img": "/images/qiutian/xianglian.jpg",
+        "name": "秋之枫华*真*潇",
+        "level": "30",
+        "place": "项链",
+        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+    },
+    {
+        "img": "/images/qiutian/shoutao.jpg",
+        "name": "秋之枫华*真*翼",
+        "level": "30",
+        "place": "手套",
+        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+    },
+    {
+        "img": "/images/qiutian/mianju.jpg",
+        "name": "秋之枫华*真*诺",
+        "level": "30",
+        "place": "面具",
+        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+    },
+    {
+        "img": "/images/qiutian/toukui.jpg",
+        "name": "秋之枫华*真*翔",
+        "level": "30",
+        "place": "头盔",
+        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+    },
+    {
+        "img": "/images/qiutian/jiezhi.jpg",
+        "name": "秋之枫华*真*深",
+        "level": "30",
+        "place": "戒指",
+        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+    },
+    {
+        "img": "/images/qiutian/beibao.jpg",
+        "name": "秋之枫华*真*遐",
+        "level": "30",
+        "place": "背包",
+        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+    }
+]

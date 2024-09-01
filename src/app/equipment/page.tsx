@@ -38,7 +38,7 @@ export default function Equipment() {
                                 <span><i className="icon-pos-mid"></i></span>
                             </div>
                             <Image
-                                src="https://game.gtimg.cn/images/lol/act/img/skinloading/0b95894e-0df2-470e-b282-6c5f5cf41955.jpg"
+                                src="https://fo.qq.com/web200604/information/item/DT1003.gif"
                                 alt="Skin loading"
                                 width={500} // specify the width
                                 height={500} // specify the height
@@ -46,7 +46,7 @@ export default function Equipment() {
                         </div>
                         <p className="hero-name">黑暗之女</p>
                     </div>
-                    <a href="#/hero-detail?heroid=1" className=""></a>
+                    <a href="/equipment/1" className=""></a>
                 </li>
             </ul>
         </div>

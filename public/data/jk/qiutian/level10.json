@@ -1,0 +1,61 @@
+[
+    {
+        "img": [
+            "/images/qiutian/nanyifu.jpg",
+            "/images/qiutian/nvyifu.jpg"
+        ],
+        "name": "秋之枫华*红(男/女)",
+        "level": "10",
+        "place": "衣服",
+        "conditional": "140 仙点"
+    },
+    {
+        "img": "/images/qiutian/xiezi.jpg",
+        "name": "秋之枫华*秋",
+        "level": "10",
+        "place": "鞋子",
+        "conditional": "260 仙点"
+    },
+    {
+        "img": "/images/qiutian/xianglian.jpg",
+        "name": "秋之枫华*枫",
+        "level": "10",
+        "place": "项链",
+        "conditional": "340 仙点"
+    },
+    {
+        "img": "/images/qiutian/shoutao.jpg",
+        "name": "秋之枫华*英",
+        "level": "10",
+        "place": "手套",
+         "conditional": "300 仙点"
+    },
+    {
+        "img": "/images/qiutian/mianju.jpg",
+        "name": "秋之枫华*华",
+        "level": "10",
+        "place": "面具",
+        "conditional": "360 仙点"
+    },
+    {
+        "img": "/images/qiutian/toukui.jpg",
+        "name": "秋之枫华*月",
+        "level": "10",
+        "place": "头盔",
+        "conditional": "30 仙点"
+    },
+    {
+        "img": "/images/qiutian/jiezhi.jpg",
+        "name": "秋之枫华*霜",
+        "level": "10",
+        "place": "戒指",
+        "conditional": "100 仙点"
+    },
+    {
+        "img": "/images/qiutian/beibao.jpg",
+        "name": "秋之枫华*韶",
+        "level": "10",
+        "place": "背包",
+         "conditional": "20 仙点"
+    }
+]
