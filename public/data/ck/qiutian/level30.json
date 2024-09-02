@@ -7,55 +7,55 @@
         "name": "秋之苍痕*真*翱(男/女)",
         "level": "30",
         "place": "衣服",
-        "conditional": "140 仙点"
+        "conditional": "需要 6 件秋之苍痕*翱(男/女) 兑换 1 件秋之苍痕*真*翱(男/女)"
     },
     {
         "img": "/images/qiutian/xiezi.jpg",
         "name": "秋之苍痕*真*疾",
         "level": "30",
         "place": "鞋子",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 8 件秋之苍痕*疾 兑换 1 件秋之苍痕*真*疾"
     },
     {
         "img": "/images/qiutian/xianglian.jpg",
         "name": "秋之苍痕*真*潇",
         "level": "30",
         "place": "项链",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 9 件秋之苍痕*潇 兑换 1 件秋之苍痕*真*潇"
     },
     {
         "img": "/images/qiutian/shoutao.jpg",
         "name": "秋之苍痕*真*翼",
         "level": "30",
         "place": "手套",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 9 件秋之苍痕*翼 兑换 1 件秋之苍痕*真*翼"
     },
     {
         "img": "/images/qiutian/mianju.jpg",
         "name": "秋之苍痕*真*诺",
         "level": "30",
         "place": "面具",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 8 件秋之苍痕*诺 兑换 1 件秋之苍痕*真*诺"
     },
     {
         "img": "/images/qiutian/toukui.jpg",
         "name": "秋之苍痕*真*翔",
         "level": "30",
         "place": "头盔",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 6 件秋之苍痕*翔 兑换 1 件秋之苍痕*真*翔"
     },
     {
         "img": "/images/qiutian/jiezhi.jpg",
         "name": "秋之苍痕*真*深",
         "level": "30",
         "place": "戒指",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 8 件秋之苍痕*深 兑换 1 件秋之苍痕*真*深"
     },
     {
         "img": "/images/qiutian/beibao.jpg",
         "name": "秋之苍痕*真*遐",
         "level": "30",
         "place": "背包",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 8 件秋之苍痕*遐 兑换 1 件秋之苍痕*真*遐"
     }
 ]
