@@ -4,58 +4,58 @@
             "/images/qiutian/nanyifu.jpg",
             "/images/qiutian/nvyifu.jpg"
         ],
-        "name": "秋之夕颜*真*翱(男/女)",
+        "name": "秋之夕颜*真*寂(男/女)",
         "level": "30",
         "place": "衣服",
-        "conditional": "140 仙点"
+        "conditional": "需要 6 件秋之夕颜*寂(男/女) 兑换 1 件秋之夕颜*真*寂(男/女)"
     },
     {
         "img": "/images/qiutian/xiezi.jpg",
-        "name": "秋之夕颜*真*疾",
+        "name": "秋之夕颜*真*梧",
         "level": "30",
         "place": "鞋子",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional":"需要 8 件秋之夕颜*梧 兑换 1 件秋之夕颜*真*梧"
     },
     {
         "img": "/images/qiutian/xianglian.jpg",
-        "name": "秋之夕颜*真*潇",
+        "name": "秋之夕颜*真*桐",
         "level": "30",
         "place": "项链",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 9 件秋之夕颜*桐 兑换 1 件秋之夕颜*真*桐"
     },
     {
         "img": "/images/qiutian/shoutao.jpg",
-        "name": "秋之夕颜*真*翼",
+        "name": "秋之夕颜*真*岩",
         "level": "30",
         "place": "手套",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional":"需要 9 件秋之夕颜*岩 兑换 1 件秋之夕颜*真*岩"
     },
     {
         "img": "/images/qiutian/mianju.jpg",
-        "name": "秋之夕颜*真*诺",
+        "name": "秋之夕颜*真*凉",
         "level": "30",
         "place": "面具",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 8 件秋之夕颜*凉 兑换 1 件秋之夕颜*真*凉"
     },
     {
         "img": "/images/qiutian/toukui.jpg",
-        "name": "秋之夕颜*真*翔",
+        "name": "秋之夕颜*真*清",
         "level": "30",
         "place": "头盔",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 6 件秋之夕颜*清 兑换 1 件秋之夕颜*真*清"
     },
     {
         "img": "/images/qiutian/jiezhi.jpg",
         "name": "秋之夕颜*真*深",
         "level": "30",
         "place": "戒指",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 8 件秋之夕颜*深 兑换 1 件秋之夕颜*真*深"
     },
     {
         "img": "/images/qiutian/beibao.jpg",
-        "name": "秋之夕颜*真*遐",
+        "name": "秋之夕颜*真*松",
         "level": "30",
         "place": "背包",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 8 件秋之夕颜*松 兑换 1 件秋之夕颜*真*松"
     }
 ]

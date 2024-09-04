@@ -4,58 +4,58 @@
             "/images/qiutian/nanyifu.jpg",
             "/images/qiutian/nvyifu.jpg"
         ],
-        "name": "秋之乐章*秘*翱(男/女)",
+        "name": "秋之乐章*秘*悦(男/女)",
         "level": "45",
         "place": "衣服",
-        "conditional": "140 仙点"
+        "conditional": "需要 4 件秋之乐章*真*悦(男/女) 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/xiezi.jpg",
-        "name": "秋之乐章*秘*疾",
+        "name": "秋之乐章*秘*奔",
         "level": "45",
         "place": "鞋子",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 6 件秋之乐章*真*奔 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/xianglian.jpg",
-        "name": "秋之乐章*秘*潇",
+        "name": "秋之乐章*秘*叮",
         "level": "45",
         "place": "项链",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 6 件秋之乐章*真*叮 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/shoutao.jpg",
-        "name": "秋之乐章*秘*翼",
+        "name": "秋之乐章*秘*瞬",
         "level": "45",
         "place": "手套",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 5 件秋之乐章*真*瞬 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/mianju.jpg",
-        "name": "秋之乐章*秘*诺",
+        "name": "秋之乐章*秘*慑",
         "level": "45",
         "place": "面具",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 6 件秋之乐章*真*慑 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/toukui.jpg",
-        "name": "秋之乐章*秘*翔",
+        "name": "秋之乐章*秘*闪",
         "level": "45",
         "place": "头盔",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 4 件秋之乐章*真*闪 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/jiezhi.jpg",
-        "name": "秋之乐章*秘*深",
+        "name": "秋之乐章*秘*咚",
         "level": "45",
         "place": "戒指",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 6 件秋之乐章*真*咚 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/beibao.jpg",
-        "name": "秋之乐章*秘*遐",
+        "name": "秋之乐章*秘*鸣",
         "level": "45",
         "place": "背包",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 5 件秋之乐章*真*鸣 和 一个秋之战神的天石"
     }
 ]

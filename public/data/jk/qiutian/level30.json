@@ -4,58 +4,58 @@
             "/images/qiutian/nanyifu.jpg",
             "/images/qiutian/nvyifu.jpg"
         ],
-        "name": "秋之枫华*真*翱(男/女)",
+        "name": "秋之枫华*真*红(男/女)",
         "level": "30",
         "place": "衣服",
-        "conditional": "140 仙点"
+        "conditional": "需要 6 件秋之枫华*红(男/女) 兑换 1 件秋之枫华*真*红(男/女)"
     },
     {
         "img": "/images/qiutian/xiezi.jpg",
-        "name": "秋之枫华*真*疾",
+        "name": "秋之枫华*真*秋",
         "level": "30",
         "place": "鞋子",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+               "conditional": "需要 8 件秋之枫华*秋 兑换 1 件秋之枫华*真*秋"
     },
     {
         "img": "/images/qiutian/xianglian.jpg",
-        "name": "秋之枫华*真*潇",
+        "name": "秋之枫华*真*枫",
         "level": "30",
         "place": "项链",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 9 件秋之枫华*枫 兑换 1 件秋之枫华*真*枫"
     },
     {
         "img": "/images/qiutian/shoutao.jpg",
-        "name": "秋之枫华*真*翼",
+        "name": "秋之枫华*真*英",
         "level": "30",
         "place": "手套",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 9 件秋之枫华*英 兑换 1 件秋之枫华*真*英"
     },
     {
         "img": "/images/qiutian/mianju.jpg",
-        "name": "秋之枫华*真*诺",
+        "name": "秋之枫华*真*华",
         "level": "30",
         "place": "面具",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 8 件秋之枫华*华 兑换 1 件秋之枫华*真*华"
     },
     {
         "img": "/images/qiutian/toukui.jpg",
-        "name": "秋之枫华*真*翔",
+        "name": "秋之枫华*真*月",
         "level": "30",
         "place": "头盔",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 6 件秋之枫华*月 兑换 1 件秋之枫华*真*月"
     },
     {
         "img": "/images/qiutian/jiezhi.jpg",
-        "name": "秋之枫华*真*深",
+        "name": "秋之枫华*真*霜",
         "level": "30",
         "place": "戒指",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 8 件秋之枫华*霜 兑换 1 件秋之枫华*真*霜"
     },
     {
         "img": "/images/qiutian/beibao.jpg",
-        "name": "秋之枫华*真*遐",
+        "name": "秋之枫华*真*韶",
         "level": "30",
         "place": "背包",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional":  "需要 8 件秋之枫华*韶 兑换 1 件秋之枫华*真*韶"
     }
 ]

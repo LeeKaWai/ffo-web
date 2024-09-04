@@ -7,55 +7,55 @@
         "name": "秋之苍痕*秘*翱(男/女)",
         "level": "45",
         "place": "衣服",
-        "conditional": "140 仙点"
+        "conditional": "需要 4 件秋之苍痕*真*翱(男/女) 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/xiezi.jpg",
         "name": "秋之苍痕*秘*疾",
         "level": "45",
         "place": "鞋子",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 6 件秋之苍痕*真*疾 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/xianglian.jpg",
         "name": "秋之苍痕*秘*潇",
         "level": "45",
         "place": "项链",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 6 件秋之苍痕*真*潇 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/shoutao.jpg",
         "name": "秋之苍痕*秘*翼",
         "level": "45",
         "place": "手套",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 5 件秋之苍痕*真*翼 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/mianju.jpg",
         "name": "秋之苍痕*秘*诺",
         "level": "45",
         "place": "面具",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 6 件秋之苍痕*真*诺 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/toukui.jpg",
         "name": "秋之苍痕*秘*翔",
         "level": "45",
         "place": "头盔",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 4 件秋之苍痕*真*翔 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/jiezhi.jpg",
         "name": "秋之苍痕*秘*深",
         "level": "45",
         "place": "戒指",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 6 件秋之苍痕*真*深 和 一个秋之战神的天石"
     },
     {
         "img": "/images/qiutian/beibao.jpg",
         "name": "秋之苍痕*秘*遐",
         "level": "45",
         "place": "背包",
-        "conditional": "低级枪系技能，对敌人造成130%的伤害，每升一级，伤害提升5%。"
+        "conditional": "需要 5 件秋之苍痕*真*遐 和 一个秋之战神的天石"
     }
 ]
